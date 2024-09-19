@@ -95,8 +95,10 @@ span {
     .lado-esquerdo p {
         font-size: 1rem;
     }
-    .lado-esquerdo form button {
+    .lado-esquerdo form button,
+    .lado-esquerdo form input{
         font-size: 12px;
+        padding: 10px;
     }
     .call-to-action button {
         width: 100%;
