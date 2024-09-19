@@ -77,6 +77,9 @@ span {
 }
 
 @media (max-width:560px) {
+    .container {
+        width: 95%;
+    }
     .lado-direito {
         width: 0%;
     }
